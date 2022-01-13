@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me about ...
-- 📫 How to reach me: Twitter- @aryansurin
+- 📫 How to reach me: Twitter-[@_aryansurin_](https://twitter.com/_aryansurin_)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-surin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
